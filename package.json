@@ -1,0 +1,19 @@
+{
+  "name": "matrix",
+  "productName": "matrix",
+  "version": "1.0.0",
+  "description": "Matrix bot",
+  "main": "index.js",
+  "keywords": [
+    "matrix",
+    "bot",
+    "sh1omi"
+  ],
+  "author": "sh1omi",
+  "license": "MIT",
+  "dependencies": {
+    "matrix-js-sdk":"*",
+    "request":"*",
+    "dateformat":"*"
+  }
+}
